@@ -1,3 +1,0 @@
-﻿# Path: .gitignore
-node_modules/
-public/
