@@ -1,0 +1,13 @@
+﻿# Node dependencies
+node_modules/
+
+# Eleventy output
+_site/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+*.log
+
+# dotenv secrets
+.env
